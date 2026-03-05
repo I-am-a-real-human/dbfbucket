@@ -1,0 +1,43 @@
+---
+name: Publish to PyPI
+on:
+  release:
+    types: [published]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        # Linux wheels
+        - target: x86_64
+          manylinux: 2014
+        - target: aarch64
+          manylinux: 2014
+        # macOS
+        - os: macos-latest
+        # Windows
+        - os: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install Rust
+        uses: dtolnay/rust-toolchain@stable
+      - name: Build wheels
+        uses: PyO3/maturin-action@v1
+        with:
+          target: ${{ matrix.target || 'x86_64-unknown-linux-gnu' }}
+          args: --release ${{ matrix.manylinux && format('--manylinux {0}', matrix.manylinux) || '' }}
+          manylinux: ${{ matrix.manylinux }}
+      - name: Upload wheels
+        uses: actions/upload-artifact@v4
+        with:
+          name: wheels
+          path: target/wheels/*.whl
+      - name: Publish to PyPI
+        if: matrix.os == 'ubuntu-latest' # Only publish once
+        uses: PyO3/maturin-action@v1
+        env:
+          MATURIN_PYPI_TOKEN: ${{ secrets.PYPI_TOKEN }}
+        with:
+          command: publish
+          args: --username __token__ --password ${{ secrets.MATURIN_PYPI_TOKEN }}
+            --no-sdist
