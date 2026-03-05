@@ -1,4 +1,4 @@
-use dbf_rs::DBF;
+use dbfbucket::DBF;
 use std::path::PathBuf;
 
 fn main() {
@@ -17,7 +17,7 @@ fn main() {
 
 #[cfg(test)]
 mod tests {
-    use dbf_rs::DBF;
+    use dbfbucket::DBF;
     use std::path::PathBuf;
 
     #[test]
