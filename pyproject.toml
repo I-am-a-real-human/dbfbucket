@@ -1,6 +1,6 @@
 [project]
 name = "dbfbucket"
-version = "0.1.2"
+version = "0.1.4"
 description = "Library for reading DBF files"
 readme = "README.md"
 requires-python = ">=3.8,<3.13"
