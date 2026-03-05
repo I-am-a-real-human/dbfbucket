@@ -1,0 +1,258 @@
+﻿LEISTNR,LEISTUNG,PREIS,KNAME
+999999,Leistung,0.00,NoNam
+10,1 Buehnenmeister,28.50,BüMei
+1,1 Buehnenhandwerker,22.80,BüHan
+2,2 Buehnenhandwerker,22.80,BüHan
+3,3 Buehnenhandwerker,22.80,BüHan
+4,4 Buehnenhandwerker,22.80,BüHan
+5,5 Bühnenhandwerker,22.80,BüHan
+6,6 Bühnenhandwerker,22.80,BüHan
+7,7 Bühnenhandwerker,22.80,BüHan
+15,Fahrtkosten,1.80,Fahrt
+16,Fahrtkosten,1.60,Fahrt
+17,Fahrtkosten,1.40,Fahrt
+18,Fahrtkosten,1.20,Fahrt
+800,"Forex,Plexiglas usw.",0.00,
+850,Forex 8mm 3050x2030,61.25,Forex
+851,Forex 10mm 3050x2030,60.75,Forex
+20,Spesen,0.00,Spese
+30,Drehbühne pro Sendung,8875.00,FSG
+31,Gabelstapler-Miete,400.00,FSG
+32,"Transportfahrzeug , 4 Anhänger",400.00,FSG
+35,Angebote Nr.1082 vom 04.05.06,0.00,
+21,Theatermaler,40.50,Theat
+500,Dekomaterial,0.00,
+550,Voile 300cm breit,7.95,Voile
+400,Farben,0.00,
+401,Farbe,0.00,
+22,Lohnkosten,999999.99,Arbei
+23,Materialkosten,999999.99,Mater
+24,Aufbau,999999.99,Aufba
+25,LKW,180.00,LKW
+19,Fahrtkosten,0.51,Fahrt
+36,Angebot vom 06.07.2005,0.00,
+37,Angebot Nr. 1077 vom 02.04.06,2300.00,
+26,Dekoeinlagerung,525.00,Einla
+8,8 Buehnenhandwerker,22.80,BüHan
+9,Überstunden,0.00,Übert
+520,d-c-fix Folie,12.75,
+530,Lackfolie 130 breit,4.75,Lackf
+830,Plexiglas 5mm,93.00,Plexi
+510,Dekomolton 300cm breit,18.75,dekom
+511,Dekomolton 200cm breit,8.10,dekom
+512,Dekomolton 130cm breit,8.90,dekom
+300,Holz,0.00,00000
+310,4/6er Latten,1.15,4/6er
+312,Dachlatten,0.95,Dach
+27,Kleinmaterial,0.00,Klein
+900,Mero-Knoten verchromt,27.20,Mero
+901,Mero-Stab 50cm verchromt,29.60,Mero
+902,Mero-Stab 70cm verchromt,34.20,Mero
+313,Tischlerplatte 13mm,10.30,Tipla
+316,Tischlerplatte 16mm,10.85,Tipla
+319,Tischlerplatte 19mm,11.20,Tipla
+1001,Einlagerung Januar,300.00,Einla
+1002,Einlagerung Februar,300.00,Einla
+1003,Einlagerung März,300.00,Einla
+1004,Einlagerung April,300.00,Einla
+1005,Einlagerung Mai,300.00,Einla
+1006,Einlagerung Juni,300.00,Einla
+1007,Einlagerung Juli,300.00,Einla
+1008,Einlagerung August,300.00,Einla
+1009,Einlagerung September,300.00,Einla
+1010,Einlagerung Oktober,300.00,Einla
+1011,Einlagerung November,300.00,Einla
+1012,Einlagerung Dezember,300.00,Einla
+11,Schreiner,30.00,Schre
+333,Buche-Laminat-Bodenbelag,112.50,Lamin
+29,Abbau,0.00,Abbau
+340,Spanplatten 13mm,12.75,Spanp
+540,Nessel 220 breit,5.25,Nesse
+541,Nessel 315 breit,6.65,Nesse
+542,Nessel 435 breit,12.20,Nesse
+543,Nessel 612 breit,27.50,Nesse
+38,Angebot Nr. 1061 vom 31.10.05,0.00,Angeb
+345,Sperrholz 25mm Wasserfest,40.50,Sperr
+350,Kantholz 10x10,4.20,Kanth
+33,Drehbühne,375.00,Drehb
+34,Nachtzuschlag,20.25,Nacht
+450,Epoxidharz,250.00,Epoxi
+50,Hotelkosten,999999.90,Hotel
+330,Siebdruckplatten 9mm 250x125,19.50,00000
+70,"Bühnengewichte 12,6 kg",999999.90,Bühgw
+71,Bühnengewicht 12 kg,999999.90,Bühgw
+39,Angebot vom 19.01.06,0.00,Angeb
+840,Forex 5mm 3050x2030,31.75,Forex
+831,Plexiglas 3mm,49.90,Plexi
+905,Glasscheibe Miete,6.00,Glas
+40,Angebot vom 18.02.und 23.02.05,13000.00,Angeb
+903,Einlegeboden Miete,3.00,
+920,"Mero-Turm 2x2m,Höhe 6m",450.00,Mero
+950,Linetraleuchten  30cm+Röhre,30.65,Lines
+951,Linetraleuchten  50cm+Röhre,44.00,Lines
+952,Linetraleuchten 100cm+Röhre,77.00,Lines
+960,Lichterketten,77.00,Licht
+521,Spiegelfolie,12.75,
+965,Tublights mit Zubehör,3514.00,Tubli
+535,Opera Projektionsfolie 140cm,15.00,Opera
+12,Vorhandwerker,27.00,Schlo
+930,U-Schellen Miete,2.00,Schel
+835,Waben-Plexiglas 8 mm,136.25,Plexi
+1202,Stahlblech 1mm,300.00,Tür
+1300,"Alu-U-Profil 12x45x12x2,5",16.50,Alu
+560,Tanzteppich 160cm breit,29.60,Tanzt
+565,Folie 200cm breit,9999.00,Tanzt
+941,Miete Merostangen 70cm,3.00,MeSta
+942,Miete Foliendach,25.00,FoDac
+566,Folie weiß qm,2.00,Folie
+570,Bluebox-Stoff 180,69.00,BlueB
+360,Topanplatten,4.80,Topan
+860,Styropor,98.50,Styro
+339,Spanplatten 10mm,10.50,Spanp
+865,Schaumstoff,999999.00,Schau
+1020,Einlagerung pro qm/Monat,5.00,Einla
+945,Praktikabel-Miete,22.00,FoDac
+28,Transportkosten,999999.99,Trans
+946,Lochbleche 120x200,2.66,Lochb
+925,Gitterträger Miete,999999.99,Gitte
+820,Plexi Rot  3mm  GS 568 300x200,48.85,Plexi
+821,Plexi Rot  4mm  GS 568 300x200,62.35,Plexi
+822,Plexi Rot  5mm  GS 568 300x200,76.40,Plexi
+823,Plexi Rot  6mm  GS 568 300x200,92.00,Plexi
+824,Plexi Rot  8mm  GS 568 300x200,122.10,Plexi
+825,Plexi Rot 10mm  GS 568 300x200,152.50,Plexi
+45,Herstellungskosten,200.00,Herst
+575,Fallschirmseide,11.75,Falls
+1021,Einlagerung April - Oktober,0.00,Einla
+1022,Einlagerung Dez.98 - Dez.99,0.00,Einla
+13,Bürokraft,20.00,Büro
+1550,Techniker,17.00,
+855,Teppichboden,28.50,
+1605,Werkzeugeinkauf,6.85,
+1500,Auf- und Abbau,17.00,
+1700,Müllcontainer,6.85,
+1756,Vierpunkttraverse,25.00,
+325,Tischlerplatte 25mm,37.45,Tipla
+1204,Fenster,350.00,
+1205,Tapete,35.00,
+1800,Mauerwerk Naturstein,170.00,
+1551,Bühnenhandwerker,35.00,
+344,Spanplatten 19mm Ahorn besch.,19.50,Spanp
+580,Vorhangschiene,0.00,Vorha
+14,Dekorateur,37.50,Dekor
+1830,Werkstattmiete,0.00,
+1801,Stuckleisten,12.50,
+1552,Dekorateur,37.50,
+1023,Einlagerung 01.03.bis 01.10.06,0.00,Einla
+1301,Alu-U-Profil 30x26x20x2,6.50,Alu
+72,"Bühnengewicht 6,5 kg",999999.90,Bühgw
+73,Bühnengewicht,999999.90,Bühgw
+370,Sperrholz 10mm,16.00,Sperr
+371,Sperrholz 8mm,21.00,Sperr
+372,Sperrholz 6mm,12.50,Sperr
+373,Sperrholz 4mm,13.00,Sperr
+380,Birke Multipl. 9 mm 150x300cm,21.90,Birke
+381,Birke Multipl. 18mm 150x300c,41.90,Birke
+383,Küchenarbeitsplatte,45.00,Küpla
+384,"Homopal 431, 305x130cm",60.00,Homo
+390,Hartfaserplatten 2600x2030 4mm,5.25,Hartf
+391,Hartfaserplatten 2600x2030 6mm,6.90,Hartf
+404,Acryl-Siegel Disbon,24.90,Acryl
+430,Rauputz,0.00,Raup
+455,Bauharz,18.75,Bauha
+460,Kannister Styroporkleber,150.00,Styrk
+461,Kleber,0.00,Klebe
+515,Schleiernessel 300 breit,11.15,S-Nes
+516,Schleiernessel 430 breit,19.75,S-Nes
+517,Schleiernessel 600 breit,48.65,S-Nes
+518,Schleiernessel 1000 breit,97.75,S-Nes
+519,Schleiernessel 1220 breit,148.50,S-Nes
+522,Spiegelplatten 100x250,9.50,Spieg
+567,Folie 4m x 50m,75.00,Folie
+581,Vorhang,0.00,Vorh
+585,Mauerwerk Naturstein,170.00,Mauer
+586,Mauerwerk Backstein,120.00,Mauer
+589,Stuckleisten,12.50,Stuck
+832,Plexiglas 4mm,66.50,Plexi
+833,Plexiglas 5mm,83.00,Plexi
+834,Plexiglas 6mm,99.75,Plexi
+836,Waben-Plexiglas 10mm,136.25,Plexi
+837,Waben-Plexiglas 20mm,416.90,Plexi
+838,Forex 2 mm 3050x2030,11.80,Forex
+839,Forex 4 mm 3050x2030,22.50,Forex
+861,Waben-Plexiglas 6 mm,75.50,Plexi
+870,PVC-Boden,999999.00,PVC
+871,PVC-Bodenbelag Buche qm,32.35,PVC
+904,Paneele Miete,3.00,Panee
+906,Beschläge,6.00,Besc.
+907,Riegel,6.00,Riege
+908,Schrauben,0.00,Schra
+926,MM-Rohr Miete,2.00,MM
+927,MM-Rohrschellen Miete,2.00,MM
+928,Spindelfueße Miete,3.00,MM
+943,Ballast für Lichttürme,15.00,Balla
+944,Treppenstufe Miete,22.00,Trepp
+913,Einlegeboden,3.00,
+914,Paneele,3.00,Panee
+915,Glasscheibe,6.00,Glas
+909,Clip 100 Stück,85.00,Clip
+910,Clip 100 Stück Miete,85.00,Clip
+1835,Gesamtpreis,0.00,
+1840,Blenden pro lfm.,10.00,
+1900,Pos. 1),0.00,
+1901,Pos. 1),0.00,
+1903,Pos. 3),0.00,
+1902,Pos. 2),0.00,
+1904,Pos. 4),0.00,
+1905,Pos. 5),0.00,
+1906,Pos. 6),0.00,
+1836,Entsorgungskosten,800.00,
+1837,Sanitärarbeiten,0.00,
+1910,Tapeten entfernt,2.95,
+51,Miete-Kranarm,250.00,Kran
+1911,Miete Bühnengewichte/Steifen,2.95,
+1920,Miete Podeste,2.95,
+1930,Miete Sternenhimmel,2.95,
+1931,Miete Leiter,2.95,
+1940,Lichterkette,2.95,
+1941,Regendach,2.95,
+1942,Traversen,2.95,
+1945,1. Abschlagszahlung,2.95,
+1950,Gewichte,100.00,
+1951,Plexiglas orange 478,330.00,
+1952,Montage,2000.00,
+1953,Einwegpaletten,9.00,
+1955,Bühnentechnik/Transp./Personal,0.00,
+1960,"Erbstüll 3,3m x 6,8m",635.00,
+1961,"Erbstüll 2,8m x 6,8m",585.00,
+1962,"Erbstüll 3,3m x 6,3m",596.00,
+1963,"Erbstüll 2,8m x 6,3m",525.00,
+1024,Einlagerung Okt.05 bis Okt.06,180.00,Einla
+1964,Erbstuell,0.00,
+1970,Pult News Pos. 6.1,0.00,
+1971,Pult Requisite 6.2,0.00,
+1972,Pult Klein 6.3,0.00,
+921,"Mero-Turm 2mx2m,Hoehe 4m",450.00,Mero
+922,"Mero-Turm 2mx3m,Höhe 4m",450.00,Mero
+1975,Bohlen,0.00,
+2000,1 Handwerker,32.50,
+2001,Transport von Akten,0.00,
+2002,2. Restzahlung,0.00,
+2003,Vierpunkt-Traversen,0.00,
+2004,Tischlerplatte/Buche,0.00,
+382,Buche Multipl. 40mm,47.50,Buche
+2005,Auf- und Abbau,0.00,
+351,Kantholz 10x120,3.00,Kanth
+923,"Mero-Turm 2mx2m,Hoehe 2m",250.00,Mero
+2010,Bodenausgleich f. LKW,0.00,
+2011,Podestbelag Rot,0.00,
+2020,Bistrostuhl mit Flechtsitz,2.00,
+2021,Tisch D 70cm,11.50,
+8556,Tagessatz Rigger,350.00,
+8557,Alu-Rohr D 100mm,20.05,
+8558,Alu-Traverse 4000mm,249.00,
+8559,Alu-Traverse 2000mm,134.20,
+8560,Bodenteller,0.00,
+8561,Schichtstoff U 514,12.35,
+8562,Schichtstoff FA 102,38.60,
+8563,Logos,38.60,
