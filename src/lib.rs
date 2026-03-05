@@ -68,7 +68,7 @@ pub struct FieldDescriptor {
     pub offset: usize,
 }
 
-#[pyclass]
+#[pyclass(from_py_object)]
 #[derive(Debug, Clone)]
 pub struct DBF {
     #[pyo3(get)]
@@ -517,7 +517,7 @@ impl std::ops::Index<&str> for DBF {
     }
 }
 
-#[pyclass]
+#[pyclass(from_py_object)]
 #[derive(Debug, Clone)]
 pub struct Column {
     #[pyo3(get)]
@@ -819,7 +819,7 @@ impl From<Value> for String {
 }
 
 #[pymodule]
-fn dbfbucket(_py: Python, m: &PyModule) -> PyResult<()> {
+fn dbfbucket(_py: Python<'_>, m: &Bound<'_, PyModule>) -> PyResult<()> {
     m.add_class::<DBF>()?;
     m.add_class::<Column>()?;
     Ok(())
